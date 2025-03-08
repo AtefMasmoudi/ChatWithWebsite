@@ -2,8 +2,9 @@
 
 This project allows users to chat with any website by extracting content from the provided URL and processing it with an AI model using **Groq Cloud**'s API. The application is built with **Streamlit** for the frontend and **LangChain** for integrating the language model.
 
-<img src="./screenshot.png" alt="Image description" style="border: 4px solid #000; padding: 10px;"/>
-
+<p align="center">
+  <img src="./screenshot.png" alt="Project Logo" style="border: 3px solid #FF5733; padding: 10px;"/>
+</p>
 ## Prerequisites
 
 Before running the application, you need to make sure you have the following:
