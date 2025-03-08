@@ -1,4 +1,3 @@
-from langchain_groq import ChatGroq
 from langchain_community.document_loaders import WebBaseLoader
 from chat import Chat
 from utils import clean_text
