@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 You need an API key from **GroqCloud** to use the Groq API. To get your key:
 
-1. Sign up for an account on [GroqCloud](https://groq.com/cloud).
+1. Sign up for an account on [GroqCloud](https://groq.com).
 2. After logging in, find your API key in the account settings.
 
 Once you have the key, proceed to the next step.
