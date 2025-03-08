@@ -5,6 +5,7 @@ This project allows users to chat with any website by extracting content from th
 <p align="center">
   <img src="./screenshot.png" alt="Project Logo" style="border: 3px solid #FF5733; padding: 10px;"/>
 </p>
+
 ## Prerequisites
 
 Before running the application, you need to make sure you have the following:
